@@ -4,54 +4,76 @@
 # [CHIP ORACLE] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
-
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adhi Narayan] - [College of Engineering Chengannur]
+- Member 2: [Harikrishnan S] - [College of Engineering Chengannur]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[Have you ever opened a bag of Lay's and wondered how many chips are actually in there and will I be dissapointed.This project aims to solve that]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The problem is about predicting the number of chips in a Random lays pack after taking in inputs of weight and flavours ,It is a fun twist on the whole idea of useless project by adding an AI twist to the expection when opening a bag of lays]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Presenting to you the one and only ChipOracle for we will help you alleviate your anxiety of opening a chip packet just input the flavour and weight and you will find your problems .... poff gone]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Python,css,typescript]
+- [Flask,tailwind]
+- [numpy,pandas,scikit-learn,matplotlib,seaborn]
+- [Jupyter notebook,VScode,flask]
+- 
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+## Backend (Flask API)
+
+1. Create and activate the virtual environment (if not already):
+	```powershell
+	python -m venv .venv
+	.venv\Scripts\Activate
+	```
+2. Install dependencies:
+	```powershell
+	pip install -r flask/requirements.txt
+	pip install flask_cors
+	```
+3. Run the Flask server:
+	```powershell
+	cd flask
+	python app.py
+	```
+
+## Frontend (React + Vite)
+
+1. Install dependencies:
+	```powershell
+	cd frontend\chipOracle
+	npm install
+	```
+2. Start the development server:
+	```powershell
+	npm run dev
+	```
+
+
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]
+*the landing page*
+<img width="1442" height="1268" alt="Screenshot 2025-08-09 070052" src="https://github.com/user-attachments/assets/faa0aff1-b45b-435b-8755-7b9d884a0415" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+<img width="1452" height="1290" alt="image" src="https://github.com/user-attachments/assets/b2086e14-5669-4b47-b087-5d2bc0b41553" />
+
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
@@ -60,24 +82,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
