@@ -4,9 +4,6 @@
 # [CHIP ORACLE] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
-
 
 ### Team Members
 - Team Lead: [Adhi Narayan] - [College of Engineering Chengannur]
