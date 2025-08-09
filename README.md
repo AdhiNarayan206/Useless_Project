@@ -60,8 +60,7 @@ For Software:
 	npm run dev
 	```
 
-# Run
-[commands]
+
 
 ### Project Documentation
 For Software:
