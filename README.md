@@ -46,7 +46,8 @@ For Software:
 <img width="1442" height="1268" alt="Screenshot 2025-08-09 070052" src="https://github.com/user-attachments/assets/faa0aff1-b45b-435b-8755-7b9d884a0415" />
 
 ![Screenshot2]
-<img width="1446" height="1273" alt="Screenshot 2025-08-09 070129" src="https://github.com/user-attachments/assets/82535c18-38fe-4e13-8a49-aa32f15fd037" />
+<img width="1452" height="1290" alt="image" src="https://github.com/user-attachments/assets/b2086e14-5669-4b47-b087-5d2bc0b41553" />
+
 
 
 ![Screenshot3](Add screenshot 3 here with proper name)
