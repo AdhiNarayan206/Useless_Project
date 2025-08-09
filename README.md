@@ -9,31 +9,28 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Adhi Narayan] - [College of Engineering Chengannur]
+- Member 2: [Harikrishnan S] - [College of Engineering Chengannur]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[Have you ever opened a bag of Lay's and wondered how many chips are actually in there and will I be dissapointed.This project aims to solve that]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The problem is about predicting the number of chips in a Random lays pack after taking in inputs of weight and flavours ,It is a fun twist on the whole idea of useless project by adding an AI twist to the expection when opening a bag of lays]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Presenting to you the one and only ChipOracle for we will help you alleviate your anxiety of opening a chip packet just input the flavour and weight and you will find your problems .... poff gone]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Python,css,typescript]
+- [Flask,tailwind]
+- [numpy,pandas,scikit-learn,matplotlib,seaborn]
+- [Jupyter notebook,VScode,flask]
+- 
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
