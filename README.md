@@ -29,10 +29,36 @@ For Software:
 - 
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
+
+## Backend (Flask API)
+
+1. Create and activate the virtual environment (if not already):
+	```powershell
+	python -m venv .venv
+	.venv\Scripts\Activate
+	```
+2. Install dependencies:
+	```powershell
+	pip install -r flask/requirements.txt
+	pip install flask_cors
+	```
+3. Run the Flask server:
+	```powershell
+	cd flask
+	python app.py
+	```
+
+## Frontend (React + Vite)
+
+1. Install dependencies:
+	```powershell
+	cd frontend\chipOracle
+	npm install
+	```
+2. Start the development server:
+	```powershell
+	npm run dev
+	```
 
 # Run
 [commands]
